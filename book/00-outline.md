@@ -1,7 +1,7 @@
 # Indonesian Affixation: A Study Guide — Outline
 
-Status: draft outline, trial chapter in progress. Scope: affix system only
-(not a full grammar/vocabulary course).
+Status: draft outline. Chapters 3 and 5 are drafted; the rest are not yet
+started. Scope: affix system only (not a full grammar/vocabulary course).
 
 1. Introduction — root words (*kata dasar*), word classes, what affixation
    does to meaning and voice, notation conventions used throughout the book.
@@ -9,11 +9,11 @@ Status: draft outline, trial chapter in progress. Scope: affix system only
    r-initial dissimilation rule shared by *ber-*/*ter-*/*per-*
    (→ *be-*/*te-*/*pe-*); syllable basics needed to make sense of the rules.
 3. Active Voice: *me-* — the base active prefix, actor focus, when it's
-   required vs. optional.
+   required vs. optional. [DRAFTED — see 03-active-me.md]
 4. Active Voice, Extended: *me-...-kan* and *me-...-i* — causative vs.
    locative/repetitive readings, and how to tell them apart on a given root.
 5. Passive Voice: *di-* and *ter-* — the *me-*/*di-* mirror pair, and *ter-*
-   as accidental/stative passive. [TRIAL CHAPTER — see 05-passive-di-ter.md]
+   as accidental/stative passive. [DRAFTED — see 05-passive-di-ter.md]
 6. Intransitive *ber-* — "to have/use/be in a state of," plus the
    *ber-...-an* reciprocal/plural circumfix.
 7. Bare *-kan* and *-i* — suffix-only imperative/colloquial forms that drop
