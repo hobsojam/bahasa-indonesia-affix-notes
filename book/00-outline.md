@@ -34,6 +34,7 @@ started. Scope: affix system only (not a full grammar/vocabulary course).
 13. Synthesis: Parsing a Word — worked examples stripping a real word down
     to root + affixes, plus practice sentences.
 
-Appendix A — alphabetical affix index.
+Appendix A — alphabetical affix index. [DRAFTED — see
+14-appendix-a-affix-index.md; kept in sync as chapters land]
 Appendix B — glossary of linguistic terms used (voice, transitive,
 circumfix, etc.).
