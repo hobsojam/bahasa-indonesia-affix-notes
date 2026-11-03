@@ -1,0 +1,6 @@
+# Reference clone of https://github.com/hobsojam/pembilas — kept locally for
+# terminology/example consistency, not part of this project's history.
+pembilas/
+
+.DS_Store
+Thumbs.db
