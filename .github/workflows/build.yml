@@ -1,0 +1,34 @@
+name: Build book
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    # windows-latest matches scripts/build_book.py's CHROME_CANDIDATES
+    # (Windows Program Files paths) and ships Edge pre-installed, which the
+    # PDF step shells out to via --print-to-pdf.
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt pip-audit
+
+      - name: Audit dependencies for known CVEs
+        run: pip-audit -r scripts/requirements.txt
+
+      - name: Build book (HTML + PDF + EPUB)
+        run: python scripts/build_book.py
+
+      - name: Upload build output
+        uses: actions/upload-artifact@v4
+        with:
+          name: book-dist
+          path: dist/
