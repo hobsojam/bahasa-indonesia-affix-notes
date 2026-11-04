@@ -12,9 +12,17 @@ order, vocabulary, pronunciation, etc. are out of scope by design.
 
 ## Status
 
-One trial chapter (`book/05-passive-di-ter.md`, covering *di-* and *ter-*)
-is drafted to establish the format. The rest of the outline is not yet
-written. See `book/00-outline.md` for details.
+All 13 chapters and all four appendices are drafted — see
+`book/00-outline.md` for the full chapter list and `book/16-appendix-c-ai-disclosure.md`
+for a disclosure of how the content was produced (AI-assisted) and its
+known reliability caveats. Nothing here has had a full independent
+review or native-speaker check yet; treat it as a first draft.
+
+## Building a PDF or EPUB
+
+`scripts/build_book.py` assembles the chapters into `dist/book.html`,
+a PDF, and an EPUB (for Kindle/e-readers). See `scripts/README.md` for
+prerequisites, usage, and known rendering quirks.
 
 ## Level & scope
 
