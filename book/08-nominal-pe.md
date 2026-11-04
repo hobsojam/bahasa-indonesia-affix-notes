@@ -102,6 +102,9 @@ both, if context alone decides:
 2. **pelatih** — *l*-initial → *pe-*, no nasal insertion. Agent: "coach,
    trainer."
 3. **pelari** — *l*-initial → *pe-*, no nasal insertion. Agent:
-   "runner" (can also mean "fugitive," depending on context).
+   "runner" (one who runs, or a race participant). Don't confuse this
+   with *pelarian* ("fugitive, escapee, refugee") — that's a different
+   derivation, the *pe-...-an* circumfix from Chapter 9, not *pelari*
+   plus a shift in meaning.
 
 </details>

@@ -94,10 +94,11 @@ participants ("X each other"), one reading of the *ber-...-an*
 circumfix. See Ch. 6.
 
 **Reduplication** — repeating a root (wholly or partially) to form a
-related word, e.g. for plurality or informality. Mentioned only in
-passing in this book (it isn't an affix, and is out of this book's
-scope) — flagged where it could otherwise be mistaken for affixation
-(Ch. 10, §10.3).
+related word, e.g. for plurality (*rumah-rumah*, "houses") or an
+intensified/distributive sense (*secepat-cepatnya*, "as fast as
+possible," combining reduplication with *se-...-nya*, Ch. 10). It
+isn't an affix and is out of this book's scope; this entry exists only
+so you don't mistake a reduplicated form for an affixed one.
 
 **Register** — the level of formality of language use. Several
 affixation patterns in this book (bare *meN-*, bare *-kan*/*-i*) are
