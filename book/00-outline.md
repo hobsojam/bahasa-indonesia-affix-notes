@@ -1,6 +1,6 @@
 # Indonesian Affixation: A Study Guide — Outline
 
-Status: all 13 chapters and all four appendices are drafted. Scope: affix
+Status: all 13 chapters and all five appendices are drafted. Scope: affix
 system only (not a full grammar/vocabulary course). See Appendix C for a
 disclosure of how this draft was produced (AI-assisted) and its known
 reliability caveats, before relying on specific claims.
@@ -55,3 +55,9 @@ Appendix D — Indonesian vs. Malaysian Malay: where the two standards'
 affix *usage* diverges (the *ter-*/*di-* balance, *kena*), despite
 sharing the same core affix forms. [DRAFTED — see
 17-appendix-d-malaysian-malay.md]
+Appendix E — Where's the English affix? A contrastive FAQ sorting
+common English affixes (plural *-s*, *un-*, *-ly*, *-able*, agentive
+*-er*, etc.) into "no Indonesian equivalent," "borrowed formal-
+register equivalent," and "already covered by a native affix you
+learned for a different reason." [DRAFTED — see
+18-appendix-e-english-affix-gaps.md]
