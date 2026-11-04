@@ -8,7 +8,7 @@ will be kept in sync as chapters land.
 
 | Affix | Type | Function | Chapter | Status |
 |---|---|---|---|---|
-| *-an* | suffix | Result noun, instrument noun, or collective | 9 | drafted |
+| *-an* | suffix | Result, product, or collective noun | 9 | drafted |
 | *ber-* | prefix | Intransitive verb; to have or use something | 6 | drafted |
 | *ber-...-an* | circumfix | Reciprocal action or plural action | 6 | drafted |
 | *di-* | prefix | Passive verb (patient focus) | 5 | drafted |
@@ -23,7 +23,7 @@ will be kept in sync as chapters land.
 | *me-...-i* | circumfix | Directional or repeated active verb | 4 | drafted |
 | *me-...-kan* | circumfix | Causative active verb | 4 | drafted |
 | *memper-* (also *memper-...-kan*, *memper-...-i*) | prefix / circumfix | "To make more X" on adjective roots; causative/intensifying on other roots | 4 | drafted |
-| *-nya* | suffix | Definiteness marker or nominaliser | 10 | drafted |
+| *-nya* | suffix | Possessive/definiteness marker, or nominaliser | 10 | drafted |
 | *pe-* | prefix | Agent or instrument noun | 8 | drafted |
 | *pe-...-an* | circumfix | Abstract noun or place noun | 9 | drafted |
 | *per-...-an* | circumfix | Abstract or collective noun (lexically distinct from *pe-...-an*, not an allomorph of it) | 9 | drafted |
