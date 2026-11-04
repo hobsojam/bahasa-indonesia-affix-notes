@@ -12,7 +12,7 @@ order, vocabulary, pronunciation, etc. are out of scope by design.
 
 ## Status
 
-All 13 chapters and all four appendices are drafted — see
+All 13 chapters and all five appendices are drafted — see
 `book/00-outline.md` for the full chapter list and `book/16-appendix-c-ai-disclosure.md`
 for a disclosure of how the content was produced (AI-assisted) and its
 known reliability caveats. Every chapter and appendix has since been

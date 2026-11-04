@@ -107,10 +107,25 @@ attested" in Malaysian Malay when that couldn't be verified beyond
 the general phenomenon it illustrates, and its heading risked being
 read as a frequency claim when the supporting corpus study (Chung
 2011) actually found *ter-* less frequent than *di-*, just more
-flexible in what it can express. These nine follow-up passes are the
-only points in this book's production where claims were checked
-against external sources *after* drafting, rather than drawn from
-training-derived knowledge *during* drafting.
+flexible in what it can express. A tenth pass, after the owner asked
+whether other common English affix categories (beyond negation,
+already discussed) are missing from Indonesian, added Appendix E: a
+contrastive FAQ sorting English affixes into those with no Indonesian
+equivalent at all (plural, tense, comparative, adverb), those with a
+borrowed formal-register equivalent (*non-*, *-isasi*, *-isme*/*-is*/
+*-itas*, *pra-*, *pasca-*), and those already partly covered by a
+native affix taught elsewhere in this book (*ter-* + negation for
+*-able*; *ber-* for *-ful*). The loanword etymologies in that
+appendix's second bucket were checked via live search against
+Wiktionary and a published study of Indonesian loan suffixes; the
+three-bucket framework and the *-able*/*-ful* equivalences in its
+third bucket are this book's own synthesis connecting material
+already verified elsewhere (§5.7, §6.3.1), not a claim drawn from any
+single comparative source — see that appendix's own reliability note.
+These ten follow-up passes are the only points in this book's
+production where claims were checked against external sources *after*
+drafting, rather than drawn from training-derived knowledge *during*
+drafting.
 
 ## What was actually cross-checked, and against what
 
