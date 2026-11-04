@@ -86,9 +86,30 @@ repeat, so flag it specifically if you'd already started using the
 old labels from an earlier read of this book. The second question
 (bare *-in*) resolved less cleanly: §7.5's new subsection presents it
 as plausible by analogy, not confirmed — the sources checked didn't
-specifically verify an imperative use of bare *-in*. These eight follow-up passes are the only
-points in this book's production where claims were checked against
-external sources *after* drafting, rather than drawn from
+specifically verify an imperative use of bare *-in*. A ninth pass, at
+the project owner's request, went through all 13 chapters and all
+four appendices in order, one at a time, checking grammar claims and
+example words against standard references, Wiktionary, and KBBI
+specifically (rather than the spot-checks the earlier passes above
+were limited to). It found and corrected five errors: the Ch. 1
+sidebar wrongly grouped *pendeta* ("pastor/minister") with
+Portuguese-derived *gereja*/*misa* when it's actually Sanskrit in
+origin (via Old Javanese *pandhita*); Ch. 8's practice answer key
+wrongly claimed *pelari* ("runner") can also mean "fugitive" — that
+sense belongs to the differently-derived *pelarian*; Ch. 9's *ke-...-an*
+experiencer-verb trap used an example sentence (*"Kedatangan tamu
+mendadak membuat saya repot"*) that actually illustrated the nominal
+reading it was supposed to contrast against, not the verb reading;
+Appendix B's Reduplication entry cited a flag in Ch. 10 §10.3 that
+doesn't exist anywhere in that section; and Appendix D's *ter-*
+section asserted a specific example sentence was "documented as
+attested" in Malaysian Malay when that couldn't be verified beyond
+the general phenomenon it illustrates, and its heading risked being
+read as a frequency claim when the supporting corpus study (Chung
+2011) actually found *ter-* less frequent than *di-*, just more
+flexible in what it can express. These nine follow-up passes are the
+only points in this book's production where claims were checked
+against external sources *after* drafting, rather than drawn from
 training-derived knowledge *during* drafting.
 
 ## What was actually cross-checked, and against what

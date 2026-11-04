@@ -15,8 +15,12 @@ order, vocabulary, pronunciation, etc. are out of scope by design.
 All 13 chapters and all four appendices are drafted — see
 `book/00-outline.md` for the full chapter list and `book/16-appendix-c-ai-disclosure.md`
 for a disclosure of how the content was produced (AI-assisted) and its
-known reliability caveats. Nothing here has had a full independent
-review or native-speaker check yet; treat it as a first draft.
+known reliability caveats. Every chapter and appendix has since been
+through one accuracy-review pass (checking grammar claims and example
+words against standard references, Wiktionary, and KBBI), which found
+and corrected five errors — see Appendix C for specifics. That's still
+not a native-speaker check; treat the content as a reviewed draft, not
+a finished, independently verified one.
 
 ## Building a PDF or EPUB
 

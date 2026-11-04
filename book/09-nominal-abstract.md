@@ -50,10 +50,13 @@ On certain verb roots, *ke-...-an* instead forms a **verb** describing
 an unintentional or adverse experience — something that happens *to*
 the subject, not a noun at all:
 
-> **Kedatangan** tamu mendadak membuat saya repot.
-> lit. "**Having guests arrive** suddenly made things hectic for me." —
-> here *kedatangan* functions as a verb ("to have [someone] arrive on
-> you, unexpectedly"), not the noun "arrival" from the example above.
+> Saya **kedatangan** tamu mendadak.
+> lit. "I was arrived-upon by sudden guests." / "**I had guests show
+> up on me** unexpectedly." — here *saya* ("I") is the subject, the
+> one affected, and *kedatangan* functions as a verb ("to have
+> [someone] arrive on you, unexpectedly") with *tamu mendadak* as its
+> complement, not the noun "arrival" from the example above, where
+> *kedatangan* itself was the subject.
 
 Both readings exist on the same word, *kedatangan* — context (is there
 a following noun phrase acting as the thing that "happened to" a

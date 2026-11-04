@@ -20,24 +20,31 @@ What actually differs is **usage**: which of two shared tools
 forms-table chapter, and the sourcing behind it is thinner too — see
 the reliability note at the end before relying on specifics here.
 
-## *ter-* carries more weight relative to *di-* in Malaysian Malay
+## *ter-* behaves more flexibly, relative to *di-*, in Malaysian Malay
 
 Chapter 5 of this book teaches Indonesian *di-*/*ter-* as a fairly
 clean split: *di-* for a deliberate, statable agent (§5.2–§5.3),
 *ter-* for accidental/stative/potential readings with no deliberate
-agent (§5.6–§5.7). Corpus work on Standard Malay (Malaysia) describes
-a *ter-* that leans further into that territory than Indonesian's
-does, and that behaves more flexibly besides — appearing in
-constructions that read as active just as easily as passive, on the
-same verb:
+agent (§5.6–§5.7). Corpus work on Standard Malay (Malaysia) — notably
+Chung's 2011 corpus-based study, which found *ter-* there used in
+constructions with "confusing active and passive" readings, and
+Nomoto's analysis of covert voice alternation in *ter-*
+constructions — describes a *ter-* that leans further into that
+ambiguous territory than Indonesian's does. This is about
+**flexibility, not raw frequency**: Chung's corpus actually found
+*ter-* less frequent than *di-* overall (though more frequent than
+the adversative *kena*) — the claim here is that *ter-* can do a
+wider range of jobs, not that it's used more often.
 
 > Lelaki itu **tertangkap** oleh polis.
 > "The man **was caught** by the police." (passive-leaning reading)
 > Polis **tertangkap** lelaki itu.
-> "The police **caught** the man." (same verb, active-leaning reading
-> — documented as attested in Malaysian Malay; the Indonesian
-> equivalent of this second sentence would use *di-* or plain *meN-*,
-> not *ter-*, to get an active reading)
+> "The police **caught** the man." (same verb, an active-leaning
+> reading — illustrative of the active/passive ambiguity the corpus
+> literature above describes, not a sentence drawn verbatim from one
+> of those sources; the Indonesian equivalent of this second sentence
+> would use *di-* or plain *meN-*, not *ter-*, to get an active
+> reading)
 
 Indonesian doesn't use *ter-* this way — the Ch. 5 split (deliberate
 *di-* vs. accidental/stative *ter-*) is more rigid, and §5.6's

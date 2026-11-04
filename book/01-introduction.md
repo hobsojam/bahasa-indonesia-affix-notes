@@ -39,10 +39,14 @@ a stranger versus a superior.
 
 **Religion** shows up in *vocabulary*, not morphology: Muslim-context
 Indonesian draws more on Arabic loanwords (*ibadah*, *insya Allah*,
-*zakat*), Christian-context Indonesian more on Dutch/Portuguese-
-derived ones (*gereja*, *misa*, *pendeta*). Once borrowed, those roots
-take ordinary affixes exactly like any other root — *beribadah*
-("to worship") is just *ber-* (§6.3.1) + *ibadah*, nothing special
+*zakat*), Christian-context Indonesian on a mix of borrowings —
+Portuguese-derived *gereja* ("church") and *misa* ("Mass"), but
+*pendeta* ("pastor/minister") is actually Sanskrit in origin (via Old
+Javanese *pandhita*, "sage, holy man"), repurposed for a Christian
+clergy role rather than borrowed from a European language. Once
+borrowed, those roots take ordinary affixes exactly like any other
+root — *beribadah* ("to worship") is just *ber-* (§6.3.1) + *ibadah*,
+nothing special
 about the affixation itself.
 
 **Ethnicity** is subtler, but the real variable turns out to be
