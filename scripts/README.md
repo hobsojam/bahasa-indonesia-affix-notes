@@ -15,9 +15,10 @@
 ## Prerequisites
 
 - Python 3, with `pip install -r scripts/requirements.txt`
-  (just `markdown-it-py` and `mdit-py-plugins`, for Markdown→HTML with
+  (`markdown-it-py` and `mdit-py-plugins`, for Markdown→HTML with
   GFM-style tables and raw-HTML passthrough — the book's `<details>`
-  answer keys rely on the latter).
+  answer keys rely on the latter; `linkify-it-py`, since the `"gfm-like"`
+  preset turns on autolinking and raises `ModuleNotFoundError` without it).
 - Microsoft Edge or Google Chrome installed, for the PDF step only (it
   shells out to headless Chromium's `--print-to-pdf`). The script checks
   the usual Windows install paths automatically; if yours isn't found,
