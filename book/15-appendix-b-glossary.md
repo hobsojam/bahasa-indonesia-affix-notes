@@ -58,7 +58,8 @@ position. See Ch. 4.
 
 **Nasal assimilation** — see *assimilation*.
 
-**Nominalization** — deriving a noun from a verb or adjective root.
+**Nominalization** — deriving a noun from a verb, adjective, or noun
+root (e.g. *per-...-an* on the noun roots *tani* and *guru*, §9.5).
 Covered across Ch. 8 (agent/instrument nouns) and Ch. 9 (abstract/
 result nouns).
 
